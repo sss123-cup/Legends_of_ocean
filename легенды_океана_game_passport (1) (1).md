@@ -124,7 +124,7 @@
 
 | --- | --- | --- | --- | --- | --- |
 
-| Русалка | спрайт персонажа | свой рисунок |https://fd.oneme.ru/getfile?sig=oeTlUidz8fmb6ycf9KiVpeTwearpEfqtbTJf7EFXcHMl469WgH8mVZHoSCKoqF8VkgWfyUH74VeGfpX0FeM2Ww&expires=1782934442548&clientType=6&id=4039095911&userId=214794323 | свой | Тарасова Дарья |
+| Русалка | спрайт персонажа | свой рисунок |![Первый ассет](https://fd.oneme.ru/getfile?sig=oeTlUidz8fmb6ycf9KiVpeTwearpEfqtbTJf7EFXcHMl469WgH8mVZHoSCKoqF8VkgWfyUH74VeGfpX0FeM2Ww&expires=1782934442548&clientType=6&id=4039095911&userId=214794323) | свой | Тарасова Дарья |
 
 | Монеты | Изображение спереди | свой рисунок |![Втрой ассет](https://fd.oneme.ru/getfile?sig=UKCgx2QlPy1kll2p8pPQTPn-f11I32SIWBNBi9YiqS1idF_b6bNsbkNU7VwKoH6fwacmxXyi0guezeSlrUCkEA&expires=1782935354493&clientType=6&id=4106095479&userId=214794323 ) | свой | Тарасова Дарья |
 
@@ -201,11 +201,11 @@ MVP — маленький рабочий кусок, а не вся игра м
 
 | --- | --- | --- | --- |
 
-| Препятствие | действие-условие-результат-состояние | https://excalidraw.com/#json=bm0OBL0N5xm-2LhV6S3Dd,2ROBmJ57DPu39ualvm7yVQ | игрок преодолел препятствие |
+| Препятствие | действие-условие-результат-состояние |![Схема первой механики](https://excalidraw.com/#json=bm0OBL0N5xm-2LhV6S3Dd,2ROBmJ57DPu39ualvm7yVQ) | игрок преодолел препятствие |
 
-| Сбор жемчужины | условие-действие-результат-состояние | https://excalidraw.com/#json=opJogUJbslg3Fl0LqWAzR,2Ul_xSkNfxhvwPU9qfJBHw | игрок получил жемчужину |
+| Сбор жемчужины | условие-действие-результат-состояние |![Схема второй механики](https://excalidraw.com/#json=opJogUJbslg3Fl0LqWAzR,2Ul_xSkNfxhvwPU9qfJBHw) | игрок получил жемчужину |
 
-| Открытие прохода | условие-дейсвие-результат-состояние | https://excalidraw.com/#json=FrW4bWNrTKgt-1QnVmheG,7SDy0OQHrDh2NkY57nzjRQ | игрок открыл проход |
+| Открытие прохода | условие-дейсвие-результат-состояние |![Схема третьей механики](https://excalidraw.com/#json=FrW4bWNrTKgt-1QnVmheG,7SDy0OQHrDh2NkY57nzjRQ) | игрок открыл проход |
 
 ---
 
