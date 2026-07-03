@@ -124,15 +124,15 @@
 
 | --- | --- | --- | --- | --- | --- |
 
-| Русалка | спрайт персонажа | свой рисунок | https://fd.oneme.ru/getfile?sig=oeTlUidz8fmb6ycf9KiVpeTwearpEfqtbTJf7EFXcHMl469WgH8mVZHoSCKoqF8VkgWfyUH74VeGfpX0FeM2Ww&expires=1782934442548&clientType=6&id=4039095911&userId=214794323 | свой | Тарасова Дарья |
+| Русалка | спрайт персонажа | свой рисунок |![Первый ассет](https://fd.oneme.ru/getfile?sig=oeTlUidz8fmb6ycf9KiVpeTwearpEfqtbTJf7EFXcHMl469WgH8mVZHoSCKoqF8VkgWfyUH74VeGfpX0FeM2Ww&expires=1782934442548&clientType=6&id=4039095911&userId=214794323) | свой | Тарасова Дарья |
 
-| Монеты | Изображение спереди | свой рисунок | https://fd.oneme.ru/getfile?sig=UKCgx2QlPy1kll2p8pPQTPn-f11I32SIWBNBi9YiqS1idF_b6bNsbkNU7VwKoH6fwacmxXyi0guezeSlrUCkEA&expires=1782935354493&clientType=6&id=4106095479&userId=214794323 | свой | Тарасова Дарья |
+| Монеты | Изображение спереди | свой рисунок |![Втрой ассет](https://fd.oneme.ru/getfile?sig=UKCgx2QlPy1kll2p8pPQTPn-f11I32SIWBNBi9YiqS1idF_b6bNsbkNU7VwKoH6fwacmxXyi0guezeSlrUCkEA&expires=1782935354493&clientType=6&id=4106095479&userId=214794323) | свой | Тарасова Дарья |
 
-| Рыбы | Изображение сбоку | свой рисунок | https://fd.oneme.ru/getfile?sig=OEX3uWhLC-9W65WNEA6cNIQG2sMLbFa4Q8_KDQjRR5d9HsOjHQw9s7ruKXHwwhHfUrvOfbkp-DhKJN_wpxwXYw&expires=1782936350534&clientType=6&id=4056902040&userId=214794323 | свой | Тарасова Дарья |
+| Рыбы | Изображение сбоку | свой рисунок |![Третий ассет](https://fd.oneme.ru/getfile?sig=OEX3uWhLC-9W65WNEA6cNIQG2sMLbFa4Q8_KDQjRR5d9HsOjHQw9s7ruKXHwwhHfUrvOfbkp-DhKJN_wpxwXYw&expires=1782936350534&clientType=6&id=4056902040&userId=214794323) | свой | Тарасова Дарья |
 
-| Шкала HP | Шкала, элементы шкалы | Itch.io | blob:https://web.max.ru/850d19f8-0d5e-407c-a27e-8ee408b601f9 | CC0 | tinyRPG |
+| Шкала HP | Шкала, элементы шкалы | Itch.io |![Четвертый ассет](blob:https://web.max.ru/850d19f8-0d5e-407c-a27e-8ee408b601f9) | CC0 | tinyRPG |
 
-| Фон | Изображение | свой рисунок | blob:https://web.max.ru/850d19f8-0d5e-407c-a27e-8ee408b601f9 | свой | Тарасова Дарья |
+| Фон | Изображение | свой рисунок |![Пятый ассет](blob:https://web.max.ru/850d19f8-0d5e-407c-a27e-8ee408b601f9) | свой | Тарасова Дарья |
 
 **Каким должен быть визуальный стиль:** Больше всего синего и голубого, несколько теплых ярких цветов, в основном светлое изображение
 
