@@ -124,7 +124,7 @@
 
 | --- | --- | --- | --- | --- | --- |
 
-| Русалка | спрайт персонажа | свой рисунок |![Первый ассет](https://fd.oneme.ru/getfile?sig=oeTlUidz8fmb6ycf9KiVpeTwearpEfqtbTJf7EFXcHMl469WgH8mVZHoSCKoqF8VkgWfyUH74VeGfpX0FeM2Ww&expires=1782934442548&clientType=6&id=4039095911&userId=214794323 ) | свой | Тарасова Дарья |
+| Русалка | спрайт персонажа | свой рисунок |https://fd.oneme.ru/getfile?sig=oeTlUidz8fmb6ycf9KiVpeTwearpEfqtbTJf7EFXcHMl469WgH8mVZHoSCKoqF8VkgWfyUH74VeGfpX0FeM2Ww&expires=1782934442548&clientType=6&id=4039095911&userId=214794323 | свой | Тарасова Дарья |
 
 | Монеты | Изображение спереди | свой рисунок |![Втрой ассет](https://fd.oneme.ru/getfile?sig=UKCgx2QlPy1kll2p8pPQTPn-f11I32SIWBNBi9YiqS1idF_b6bNsbkNU7VwKoH6fwacmxXyi0guezeSlrUCkEA&expires=1782935354493&clientType=6&id=4106095479&userId=214794323 ) | свой | Тарасова Дарья |
 
